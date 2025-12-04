@@ -1,0 +1,2 @@
+titre,nb_tranches,nb_cris,cri_type_dom,env_moy,rms_moy,peak_moy,centroid_moy,bandwidth_moy,mfcc_moy,pcen_moy
+صوت صراخ.wav,1,1,adulte,2.0,0.2055807259400269,0.999998798432011,1613.1495584134707,1502.7007892687022,-26.048899760914022,0.20728529379372118

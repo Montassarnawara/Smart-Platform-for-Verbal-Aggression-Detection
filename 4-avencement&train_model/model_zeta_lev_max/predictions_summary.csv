@@ -1,0 +1,2 @@
+titre,nb_tranches,nb_cris,cri_type_dom,env_moy,rms_moy,peak_moy,centroid_moy,bandwidth_moy,mfcc_moy,pcen_moy,danger_max_pred,danger_moy_pred,danger_std_pred
+recorded_5s.wav,1,0,aucun,2.0,0.0986402781899884,0.9999828172852876,3623.283295354551,4339.173025968707,-18.468878656515624,0.1063758140515899,46.36024921841422,50.11500269286459,10.062560018400008
